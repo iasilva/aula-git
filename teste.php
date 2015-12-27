@@ -1,1 +1,4 @@
-<?php <teste> ?>
+<?php "teste" 
+	Echo "Jesus is LORD";
+
+?>
