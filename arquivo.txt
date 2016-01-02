@@ -1,7 +1,3 @@
 Começando do zero
-<<<<<<< HEAD
-
 Arquivo Alterado
-=======
 Mechendo no branch funcionalidade1
->>>>>>> funcionalidade1
